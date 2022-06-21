@@ -20,4 +20,4 @@ Important New Feature:
 
 Now you are able to save data locally to C: Drive by going to game settings and selecting 8 :)
 
-You can use that in future updates really efficiently! How? Well as you may know, until now you allways needed to download source code and move it to the previous version folder. Well from 1.2 you dont need to anymore, you just need to enable local saving before updating, and then just download the new update and run it! Thats It!
+You can use that in future updates really efficiently! How? Well as you may know, until now you allways needed to download source code and move it to the previous version folder. Well from 1.3 you wont need to anymore, you will just need to enable local saving before updating, and then just download the new update and run it! Thats It!
